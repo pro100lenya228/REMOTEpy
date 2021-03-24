@@ -1,11 +1,11 @@
-disclaimer:
+#disclaimer:
 I'm not responsible for anything you do with this program, so please only use it for good and educational purposes.
 
-about:
+#about:
 
 Remote access to a computer via Telegram bot.
 
-installation:
+#installation:
 
 step 1/3 - setup.py
 
