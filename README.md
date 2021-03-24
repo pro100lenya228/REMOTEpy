@@ -1,6 +1,6 @@
 ## installation:
 
-**Some basic Git commands are:**
+**step 1/3 - setup.py**
 ```
 python setup.py
 ```
@@ -29,7 +29,7 @@ After that, enter the issued id in the appropriate field in the terminal.
 
 Good, setup is done, now you can use the bot.
 ```
-##available commands:
+## available commands:
 ```
 /cmd - to execute cmd command that requires the return of results 
 /run - run the program that doesn't require the return of results
@@ -45,7 +45,7 @@ Good, setup is done, now you can use the bot.
 /sleep - sleeping/hibernation mode
 ```
 
-##disclaimer:
+## disclaimer:
 **I'm not responsible for anything you do with this program, so please only use it for good and educational purposes.**
 
 
