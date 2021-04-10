@@ -1,6 +1,6 @@
 ## installation: 
 
-Open cmd with admin rights
+Open cmd with admin rights.
 
 **step 1/3 - setup.py**
 ```
