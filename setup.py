@@ -4,7 +4,7 @@ import time
 
 try:
     file = open('api.txt')
-except IOError as e:
+except IOError:
 
 	subprocess.call(['pip', 'install', 'telepot', '-y'])
 	subprocess.call(['pip', 'install', 'request', '-y'])
