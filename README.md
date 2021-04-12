@@ -46,6 +46,10 @@ Good, setup is done, now you can use the bot.
 /reboot - restart the PC
 /sleep - sleeping/hibernation mode
 ```
+## deliting:
+```
+python uninstall.py
+```
 
 ## disclaimer:
 **I'm not responsible for anything you do with this program, so please only use it for good and educational purposes.**
