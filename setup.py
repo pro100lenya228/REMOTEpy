@@ -8,6 +8,7 @@ except IOError as e:
 
 	subprocess.call(['pip', 'install', 'telepot'])
 	subprocess.call(['pip', 'install', 'request'])
+	subprocess.call(['pip', 'install', 'pillow'])
 	os.system('cls||clear')
 
 	print(""" ____  _____ __  __  ___ _____ _____
