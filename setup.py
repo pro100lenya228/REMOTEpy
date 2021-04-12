@@ -6,9 +6,9 @@ try:
     file = open('api.txt')
 except IOError as e:
 
-	subprocess.call(['pip', 'install', 'telepot'])
-	subprocess.call(['pip', 'install', 'request'])
-        subprocess.call(['pip', 'install', 'pillow'])
+	subprocess.call(['pip', 'install', 'telepot', '-y'])
+	subprocess.call(['pip', 'install', 'request', '-y'])
+        subprocess.call(['pip', 'install', 'pillow', '-y'])
 	os.system('cls||clear')
 
 	print(""" ____  _____ __  __  ___ _____ _____
